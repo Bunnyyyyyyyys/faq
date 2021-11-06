@@ -1,8 +1,6 @@
 # Горячие клавиши
 #### Копировать:
 Ctrl+С
-#### Выыделить всё:
-Ctrl+A
 #### Вставить:
 Ctrl+V
 #### Сохранить:
@@ -29,15 +27,12 @@ git commit -m "..."
 ```bash
 git push
 ```
-### Принять изменения из облака:
-```bash
-git pull
-```
-
 # Ссылки софта:
 ### git
 [git-scm.com/](https://git-scm.com/)
 ### Visualstudio:
 [code.visualstudio.com](https://code.visualstudio.com/)
-### sublimeText 3
-[sublimetext.com/3](https://www.sublimetext.com/3)
+
+# Ресурсы:
+### Шрифты:
+[fonts.google.](https://fonts.google.com/)
