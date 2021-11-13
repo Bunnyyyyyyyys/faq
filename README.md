@@ -36,3 +36,6 @@ git push
 # Ресурсы:
 ### Шрифты:
 [fonts.google.](https://fonts.google.com/)
+
+# Информация:
+[.htmlSbook.](https://.htmlSbook.ru/css3-animation/)
