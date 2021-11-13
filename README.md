@@ -38,4 +38,4 @@ git push
 [fonts.google.](https://fonts.google.com/)
 
 # Информация:
-[htmlsbook.ru](https://.htmlSbook.ru/css3-animation/)
+[htmlSbook.ru](https://.htmlSbook.ru/css3-animation/)
